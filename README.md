@@ -10,4 +10,4 @@
 
 ## Preguntas resultas
 
-### 1. ¿Cuál es el precio promedio de las propiedades?
+## 1. ¿Cuál es el precio promedio de las propiedades?
