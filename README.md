@@ -12,5 +12,7 @@
 
 ### **1. ¿Cuál es el precio promedio de las propiedades?**
 
+```sql
 SELECT AVG(TRY_CAST(price AS DECIMAL(15,2))) AS precio_promedio
 FROM dbo.[realtor-data];
+```
