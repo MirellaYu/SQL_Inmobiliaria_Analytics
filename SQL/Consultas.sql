@@ -111,7 +111,7 @@ FROM (SELECT  YEAR(TRY_CAST(prev_sold_date AS DATE)) AS Año,
      ) AS Datos 
 ORDER BY Año ASC;
 
---15. ¿Cuáles son las 5 ciudades que mejor combinan alta oferta y precios elevados?
+--14. ¿Cuáles son las 5 ciudades que mejor combinan alta oferta y precios elevados?
 WITH DatosCiudad AS
 (
     SELECT city AS Ciudad,
