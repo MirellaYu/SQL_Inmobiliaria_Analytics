@@ -16,3 +16,4 @@
 SELECT AVG(TRY_CAST(price AS DECIMAL(15,2))) AS precio_promedio
 FROM dbo.[realtor-data];
 ```
+<p><strong>Hallazgos:</strong> El precio promedio de las propiedades es de $524,195.52. Este valor representa el precio medio considerando todas las propiedades del dataset.</p>
