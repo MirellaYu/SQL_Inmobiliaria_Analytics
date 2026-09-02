@@ -10,4 +10,4 @@
 
 ## Preguntas resultas
 
-### **Descripción del proyecto**
+### **1. ¿Cuál es el precio promedio de las propiedades?**
